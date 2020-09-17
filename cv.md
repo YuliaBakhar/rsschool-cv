@@ -40,3 +40,7 @@ Jun. 2018 - Jun. 2020 - Courses Mr. English
 ### Languages:
 
 B1 level of English.
+
+[![Icon of GitHub](/icons/github.svg)](https://github.com/YuliaBakhar)
+[![IIcon of Telegram](/icons/telegram.svg)](https://t.me/foultra)
+[![Icon of Instagram](/icons/instagram.svg)](https://www.instagram.com/foultra)
